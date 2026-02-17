@@ -1,0 +1,50 @@
+{
+    "email": {
+        "sender_email": "darlingteja2019@gmail.com",
+        "app_password": "lawh fcts iicc kddg",
+        "receiver_email": "tejabali2022@gmail.com"
+    },
+    "job_search": {
+        "keywords": [
+            "Full Stack Developer",
+            "AI/ML Developer", 
+            "Machine Learning",
+            "Data Science",
+            "Python Developer",
+            "React Developer",
+            "Node.js Developer",
+            "Backend Developer",
+            "Frontend Developer"
+        ],
+        "locations": [
+            "Remote",
+            "India", 
+            "Bangalore",
+            "Hyderabad",
+            "Chennai",
+            "Mumbai",
+            "Pune",
+            "Delhi",
+            "Gurgaon",
+            "Noida"
+        ],
+        "experience_levels": [
+            "Intern",
+            "Entry Level", 
+            "0-1 years",
+            "Fresher",
+            "Graduate"
+        ]
+    },
+    "schedule": {
+        "time": "17:30",
+        "timezone": "Asia/Kolkata"
+    },
+    "sources": {
+        "internshala": true,
+        "unstop": true,
+        "indeed": true,
+        "glassdoor": false,
+        "linkedin": false
+    }
+}
