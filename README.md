@@ -32,7 +32,7 @@ pip install -r requirements.txt
      "email": {
        "sender_email": "your_actual_email@gmail.com",
        "app_password": "your_16_char_app_password",
-       "receiver_email": "vantharamsuryagayathri.22.cse@anits.edu.in"
+       "receiver_email": ""
      }
    }
    ```
